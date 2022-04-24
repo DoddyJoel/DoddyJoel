@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=263045&lines=Hi+%F0%9F%91%8B+everyone;I'm+Doddy+Castillo;A+passionate+sotfware+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=263045&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+everyone;I'm+Doddy+Castillo;A+passionate+sotfware+developer+)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76115393abbf085c6fcdb997ff4e057e226f4f936792&rid=giphy.gif&ct=g" >
 
 - 🔭 I’m currently working on **document indexing with elastisearch**
