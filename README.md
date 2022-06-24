@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=263045&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+everyone;I'm+Doddy+Castillo;A+passionate+sotfware+developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76115393abbf085c6fcdb997ff4e057e226f4f936792&rid=giphy.gif&ct=g" >
 
-- 🔭 I’m currently working on **document indexing with elastisearch**
+- 🔭 I am currently working on **document indexing with elastisearch**
 
-- 🌱 I’m currently learning **scala, lagom, elasticsearch**
+- 🌱 I am currently learning **scala, lagom, elasticsearch**
 
 - 📫 How to reach me **doddy1997@hotmail.com**
 
